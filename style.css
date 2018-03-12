@@ -1,0 +1,66 @@
+/*
+Theme Name: Rutgers Student Affairs WP Maintenance
+Author: Rutgers Student Affairs, Office of Marketing and Communications
+Author URI: http://samc.rutgers.edu
+Description: This theme is meant to be a placeholder for all Rutgers University Division of Student Affairs domains while maintenance and updates are in progress. This theme is a static page and does not have any dynamic elements built within. In order to make any edits, you will need to edit the theme's core php and css files.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: scarlet, red, darkgray, bootstrap 4, minimal
+Text Domain: rutgersstudentaffairs
+*/
+
+
+
+h1{
+  font-size: 28px;
+}
+
+h2{
+  color:#d21034;
+  font-size: 20px
+}
+
+h3{
+  color:#007fac;
+  font-size: 18px
+}
+
+.space{
+    margin-bottom: 40px;
+}
+
+.bg-dark {
+    background-color: #D21034 !important;
+    border-top: 10px solid #474747;
+}
+
+.hero-img{
+  width: 100%;
+}
+
+.svg-inline--fa.fa-phone-square.fa-w-14 {
+  font-size: 28px;
+  vertical-align: middle;
+  color:#007fac;
+}
+
+.copyright{
+  font-size: 12px;
+}
+
+footer{
+  background-color: #424242;
+  padding: 20px 0;
+  color: #fff;
+}
+
+footer a{
+  color: #fff;
+  font-size: 12px;
+}
+
+footer a:hover{
+  color: #fff;
+  text-decoration: underline;
+}
